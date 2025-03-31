@@ -3,7 +3,7 @@
 **Technical Skills: Python, SQL, Tableau, R, Java, ATLAS.ti, MATLAB**
 
 ### Education
-- B.Sc. in Applied & Computational Mathematical Sciences: Data Sci & Stats | University of Washington, Seattle (June 2026)
+- B.Sc. in Applied & Comput. Mathematical Sciences: Data Sci & Stats | University of Washington, Seattle (June 2026)
 - B.A. in Economics, with a Certificate in Quantitative Managerial Economics | University of Washington, Seattle (June 2026)
 
 ### Work Experience 
