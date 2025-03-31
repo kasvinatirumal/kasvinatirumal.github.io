@@ -30,7 +30,7 @@
 - Explored the differences between pricing European call options using historical and implied volatility.
 - Compared estimated prices to their respective market price
 - Examined the shape of implied volatility curves of real-world call options.
-![Pricing European Call Options](/assets/img/project1img.png)
+![Pricing European Call Options](/assets/img/project1img.jpg)
 
 ### Are Economic Indicators and Per Capita CO2 Emissions Good Predictors of HDI?
 [Notebook Report](https://github.com/kasvinatirumal/predicting-hdi/blob/main/project.ipynb) using Jupyter Notebook (Python)
@@ -39,9 +39,9 @@
 - Trained a linear regression model and an XGBoost model to predict HDI using only economic indicators.
 - Added per capita carbon dioxide emissions as a predictor to both models, which improved the model’s predictive accuracy.
 - Concluded that the hyperparameter-tuned XGBoost model, with recursive feature elimination of five predictors and the inclusion of CO2 emissions as a predictor, was the most accurate model for predicting HDI.
-![Economic Indictors, CO2 Emissions, HDI](/assets/img/project2img.png)
+![Economic Indictors, CO2 Emissions, HDI](/assets/img/project2img.jpg)
 
 ### COVID-19 Vaccination Appointment Scheduler
 [GitHub repository](https://github.com/kasvinatirumal/vaccine-scheduler/tree/main/src/main), coded using Java and SQL
 Developed a Java-based command-line application for scheduling COVID-19 vaccination appointments. The application interacts with a Microsoft Azure-hosted database, utilizing SQL to create, manage, and query tables for Caregivers, Availabilities, Vaccines, Patients, and Appointments.
-![Covid-19 Scheduler](/assets/img/project3img.png)
+![Covid-19 Scheduler](/assets/img/project3img.jpg)
