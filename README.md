@@ -24,7 +24,7 @@
 
 ### Projects
 ### Pricing European Call Options using the Black-Scholes Equation
-[Notebook Report](https://github.com/kasvinatirumal/wdrp_wi25/blob/main/Pricing_European_Call_Options.ipynb) using Jupyter Notebook (Python)
+[Report](https://github.com/kasvinatirumal/wdrp_wi25/blob/main/Pricing_European_Call_Options.ipynb) using Jupyter Notebook (Python)
 - Modeled stock prices mathematically, and used the model to estimate historical volatility of stocks.
 - Explored the differences between pricing European call options using historical and implied volatility.
 - Compared estimated prices to their respective market price.
@@ -33,7 +33,7 @@
 ![Pricing European Call Options](/assets/img/project1.jpg)
 
 ### Are Economic Indicators and Per Capita CO2 Emissions Good Predictors of HDI?
-[Notebook Report](https://github.com/kasvinatirumal/predicting-hdi/blob/main/project.ipynb) using Jupyter Notebook (Python)
+[Report](https://github.com/kasvinatirumal/predicting-hdi/blob/main/project.ipynb) using Jupyter Notebook (Python)
 - Explored the relationships between per capita GDP, carbon dioxide emissions and HDI, and plotted their respective trends from 2010 to 2022 using an interactive visualization.
 - Investigated whether HDI varies significantly across different levels of per capita carbon dioxide emissions.
 - Trained a linear regression model and an XGBoost model to predict HDI using only economic indicators.
@@ -43,7 +43,7 @@
 ![Economic Indictors, CO2 Emissions, HDI](/assets/img/project2.jpg)
 
 ### COVID-19 Vaccination Appointment Scheduler
-[GitHub repository](https://github.com/kasvinatirumal/vaccine-scheduler/tree/main/src/main), coded using Java and SQL
+[GitHub Repository](https://github.com/kasvinatirumal/vaccine-scheduler/tree/main/src/main), coded using Java and SQL
 
 Developed a Java-based command-line application for scheduling COVID-19 vaccination appointments. The application interacts with a Microsoft Azure-hosted database, utilizing SQL to create, manage, and query tables for Caregivers, Availabilities, Vaccines, Patients, and Appointments.
 
