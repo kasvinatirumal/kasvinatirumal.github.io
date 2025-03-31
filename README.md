@@ -27,8 +27,8 @@
 [Notebook Report](https://github.com/kasvinatirumal/wdrp_wi25/blob/main/Pricing_European_Call_Options.ipynb) using Jupyter Notebook (Python)
 - Modeled stock prices mathematically, and used the model to estimate historical volatility of stocks.
 - Explored the differences between pricing European call options using historical and implied volatility.
-- Compared estimated prices to their respective market price
-- Examined the shape of implied volatility curves of real-world call options.
+- Compared estimated prices to their respective market price.
+- Examined implied volatility curves of real-world call options.
   
 ![Pricing European Call Options](/assets/img/project1.jpg)
 
