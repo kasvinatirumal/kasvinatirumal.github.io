@@ -1,7 +1,7 @@
 # Data Science Student
 
 **Programming Languages: Python, SQL, SQL++, R, Java, MATLAB** \
-**Technical Software: PyTorch, TensorFlow, Microsoft Azure, Tableau, ATLAS.ti, LaTeX**
+**Software: PyTorch, TensorFlow, Microsoft Azure, Tableau, ATLAS.ti**
 
 ### Education
 - B.Sc. in Applied & Computational Math Sciences: Data Sci & Statistics | University of Washington, Seattle (June 2026)
