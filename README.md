@@ -1,6 +1,6 @@
 # Data Science Student
 
-**Technical Skills: Python, SQL, Tableau, R, Java, ATLAS.ti, MATLAB**
+**Technical Skills: Python, SQL, SQL++, Tableau, R, Java, ATLAS.ti, MATLAB**
 
 ### Education
 - B.Sc. in Applied & Computational Math Sciences: Data Sci & Statistics | University of Washington, Seattle (June 2026)
