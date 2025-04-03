@@ -20,7 +20,7 @@
 ### Extracurricular activities
 - Workshop Director @ Applied Analytics Club at UW (March 2025 - Present)
 - Finance Director @ Rotaract Club at UW (February 2024 - Present)
-- Won "Best Use of External Data" @ ASA Datafest 2024 at UW (March 2024) | [Report](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Report.pdf) | [Slides](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Presentation.pdf)
+- Won "Best Use of External Data" @ ASA Datafest 2024 at UW | [Report](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Report.pdf) | [Slides](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Presentation.pdf)
 
 ### Projects
 ### Pricing European Call Options using the Black-Scholes Equation
