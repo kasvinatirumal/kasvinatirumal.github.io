@@ -1,6 +1,6 @@
 # Data Science Student
 
-**Programming Languages: Python, SQL, SQL++, R, Java, MATLAB**
+**Programming Languages: Python, SQL, SQL++, R, Java, MATLAB** \
 **Technical Software: PyTorch, TensorFlow, Microsoft Azure, Tableau, ATLAS.ti, LaTeX**
 
 ### Education
