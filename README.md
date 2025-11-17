@@ -40,9 +40,7 @@
 - Compared estimated prices to their respective market price.
 - Examined implied volatility curves of real-world call options.
   
-<div style="width: 100%; max-width: 250px; aspect-ratio: 4 / 3; overflow: hidden; background:#f0f0f0;">
-  <img src="/assets/img/project1.jpg" style="width: 100%; height: 100%; object-fit: contain;">
-</div>
+![Call Options](/assets/img/project1.jpg)
 
 ### Are Economic Indicators and Per Capita CO2 Emissions Good Predictors of HDI?
 [Report](https://github.com/kasvinatirumal/predicting-hdi/blob/main/project.ipynb) using Jupyter Notebook (Python)
@@ -52,15 +50,11 @@
 - Added per capita carbon dioxide emissions as a predictor to both models, which improved the model’s predictive accuracy.
 - Concluded that the hyperparameter-tuned XGBoost model, with recursive feature elimination of five predictors and the inclusion of CO2 emissions as a predictor, was the most accurate model for predicting HDI.
   
-<div style="width: 100%; max-width: 250px; aspect-ratio: 4 / 3; overflow: hidden; background:#f0f0f0;">
-  <img src="/assets/img/project2.jpg" style="width: 100%; height: 100%; object-fit: contain;">
-</div>
+![Economic Indicators](/assets/img/project2.jpg)
 
 ### COVID-19 Vaccination Appointment Scheduler
 [GitHub Repository](https://github.com/kasvinatirumal/vaccine-scheduler/tree/main/src/main), coded using Java and SQL
 
 Developed a Java-based command-line application for scheduling COVID-19 vaccination appointments. The application interacts with a Microsoft Azure-hosted database, utilizing SQL to create, manage, and query tables for Caregivers, Availabilities, Vaccines, Patients, and Appointments.
 
-<div style="width: 100%; max-width: 250px; aspect-ratio: 4 / 3; overflow: hidden; background:#f0f0f0;">
-  <img src="/assets/img/project3.jpg" style="width: 100%; height: 100%; object-fit: contain;">
-</div>
+![Covid-19 Scheduler](/assets/img/image3.jpg)
