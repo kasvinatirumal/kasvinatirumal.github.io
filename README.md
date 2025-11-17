@@ -40,7 +40,7 @@
 - Compared estimated prices to their respective market price.
 - Examined implied volatility curves of real-world call options.
   
-<div style="width: 100%; max-width: 400px; aspect-ratio: 4 / 3; overflow: hidden;">
+<div style="width: 100%; max-width: 300px; aspect-ratio: 4 / 3; overflow: hidden;">
   <img src="/assets/img/project1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
@@ -61,6 +61,6 @@
 
 Developed a Java-based command-line application for scheduling COVID-19 vaccination appointments. The application interacts with a Microsoft Azure-hosted database, utilizing SQL to create, manage, and query tables for Caregivers, Availabilities, Vaccines, Patients, and Appointments.
 
-<div style="width: 100%; max-width: 400px; aspect-ratio: 4 / 3; overflow: hidden;">
+<div style="width: 100%; max-width: 300px; aspect-ratio: 4 / 3; overflow: hidden;">
   <img src="/assets/img/project3.jpg" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
