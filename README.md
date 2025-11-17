@@ -17,14 +17,14 @@
 
 ### Work Experience 
 **Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - Present)**
-- Conducted one-on-one and group tutoring sessions for undergraduate students taking Pre-Calculus and Calculus.
-- Collaborated with faculty to identify common student difficulties and adapted tutoring strategies accordingly.
-- Fostered a supportive learning environment to encourage collaboration amongst students waiting to receive help.
+- Conducted one-on-one and group tutoring for Pre-Calculus and Calculus to over 60 students per week.
+- Collaborated with faculty to identify common student difficulties and adapt tutoring strategies accordingly.
+- Fostered a supportive learning environment that encourages collaboration among students waiting to receive help.
 
 **Business Development Intern @ Lydian Labs (October 2023 – December 2023)** 
-- Led a full-scale redesign of their task management platform, significantly enhancing organization and efficiency.
-- Curated engaging content for social media and community postings, boosting engagement by 60%.
-- Managed logistical tasks including market and corporate research, and crafted slide decks for AMA sessions.
+- Led a major redesign of the company’s task management platform, streamlining workflow organization by 85%.
+- Curated a dynamic content calendar for social media and community postings that increased engagement by 60%.
+- Performed market and company research, and prepared presentation materials for AMAs and external events.
 
 ### Extracurricular activities
 - ACMS Student Ambassador (September 2025 - Present)
