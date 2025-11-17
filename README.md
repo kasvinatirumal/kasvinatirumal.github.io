@@ -4,7 +4,6 @@
 **Software/Packages: PyTorch, TensorFlow, Microsoft Azure, Tableau, ATLAS.ti**
 
 ### Education
-| Degree | Institution |
 |--------|-------------|
 | **B.Sc. in Applied & Computational Math Sciences: Data Sci & Statistics** | University of Washington, Seattle (June 2026) |
 | **B.A. in Economics: International** | University of Washington, Seattle (June 2026) |
