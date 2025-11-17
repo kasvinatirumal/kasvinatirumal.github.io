@@ -5,7 +5,7 @@
 
 ### Education
 - B.Sc. in Applied & Computational Math Sciences: Data Sci & Statistics | University of Washington, Seattle (June 2026)
-- B.A. in Economics, with a Certificate in Quantitative Managerial Economics | University of Washington, Seattle (June 2026)
+- B.A. in Economics: International | University of Washington, Seattle (June 2026)
 
 ### Work Experience 
 **Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - Present)**
