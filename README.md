@@ -4,8 +4,12 @@
 **Software/Packages: PyTorch, TensorFlow, Microsoft Azure, Tableau, ATLAS.ti**
 
 ### Education
-- B.Sc. in Applied & Computational Math Sciences: Data Sci & Statistics | University of Washington, Seattle (June 2026)
-- B.A. in Economics: International                                      | University of Washington, Seattle (June 2026)
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+B.Sc. in Applied \& Computational Math Sciences: Data Sci \& Statistics 
+& University of Washington, Seattle (June 2026) \\
+B.A. in Economics: International 
+& University of Washington, Seattle (June 2026) \\
+\end{tabular*}
 
 ### Work Experience 
 **Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - Present)**
