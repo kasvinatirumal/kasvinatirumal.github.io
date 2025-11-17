@@ -1,7 +1,7 @@
 # Data Science Student
 
 **Programming Languages: Python, SQL, SQL++, R, Java, MATLAB** \
-**Software/Packages: PyTorch, TensorFlow, Shiny, Azure, Tableau, ATLAS.ti**
+**Packages/Tools: PyTorch, TensorFlow, Shiny, Azure, Tableau, ATLAS.ti**
 
 ### Education
 <table>
