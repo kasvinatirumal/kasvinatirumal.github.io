@@ -27,6 +27,7 @@
 - Managed logistical tasks including market and corporate research, and crafted slide decks for AMA sessions.
 
 ### Extracurricular activities
+- ACMS Student Ambassador (September 2025 - Present)
 - Workshop Director @ Applied Analytics Club at UW (March 2025 - Present)
 - Finance Director @ Rotaract Club at UW (February 2024 - Present)
 - Won "Best Use of External Data" @ ASA Datafest 2024 at UW | [Report](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Report.pdf) | [Slides](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Presentation.pdf)
