@@ -57,4 +57,4 @@
 
 Developed a Java-based command-line application for scheduling COVID-19 vaccination appointments. The application interacts with a Microsoft Azure-hosted database, utilizing SQL to create, manage, and query tables for Caregivers, Availabilities, Vaccines, Patients, and Appointments.
 
-![Covid-19 Scheduler](/assets/img/image3.jpg)
+![Covid-19 Scheduler](/assets/img/project3.jpg)
