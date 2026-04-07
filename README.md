@@ -10,7 +10,7 @@
     <td align="right">University of Washington, Seattle (June 2026)</td>
   </tr>
   <tr>
-    <td><strong>B.A. in Economics: International</strong></td>
+    <td><strong>B.A. in Economics</strong></td>
     <td align="right">University of Washington, Seattle (June 2026)</td>
   </tr>
 </table>
