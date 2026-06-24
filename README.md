@@ -16,12 +16,12 @@
 </table>
 
 ### Work Experience 
-** Lead Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - June 2026)**
+**Lead Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - June 2026)**
 - Conducted one-on-one and group tutoring for Pre-Calculus and Calculus to over 60 students per week.
 - Collaborated with faculty to identify common student difficulties and adapt tutoring strategies accordingly.
 - Fostered a supportive learning environment that encourages collaboration among students waiting to receive help.
 
-**Business Development Intern @ Lydian Labs (October 2023 – December 2023)** 
+**Business Development Intern @ ACTIV8 (formerly Lydian Labs) (October 2023 – December 2023)** 
 - Led a major redesign of the company’s task management platform, streamlining workflow organization by 85%.
 - Curated a dynamic content calendar for social media and community postings that increased engagement by 60%.
 - Performed market and company research, and prepared presentation materials for AMAs and external events.
