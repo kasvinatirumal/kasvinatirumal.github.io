@@ -7,16 +7,16 @@
 <table>
   <tr>
     <td><strong>B.Sc. in Applied & Computational Math Sciences: Data Sci & Statistics</strong></td>
-    <td align="right">University of Washington, Seattle (June 2026)</td>
+    <td align="right">University of Washington, Seattle (2026)</td>
   </tr>
   <tr>
     <td><strong>B.A. in Economics</strong></td>
-    <td align="right">University of Washington, Seattle (June 2026)</td>
+    <td align="right">University of Washington, Seattle (2026)</td>
   </tr>
 </table>
 
 ### Work Experience 
-**Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - Present)**
+**Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - June 2026)**
 - Conducted one-on-one and group tutoring for Pre-Calculus and Calculus to over 60 students per week.
 - Collaborated with faculty to identify common student difficulties and adapt tutoring strategies accordingly.
 - Fostered a supportive learning environment that encourages collaboration among students waiting to receive help.
@@ -27,8 +27,8 @@
 - Performed market and company research, and prepared presentation materials for AMAs and external events.
 
 ### Extracurricular activities
-- ACMS Student Ambassador (September 2025 - Present)
-- Workshop Director @ Applied Analytics Club at UW (March 2025 - Present)
+- ACMS Student Ambassador (September 2025 - June 2026)
+- Workshop Director @ Applied Analytics Club at UW (March 2025 - June 2026)
 - Finance Director @ Rotaract Club at UW (February 2024 - June 2025)
 - Won "Best Use of External Data" @ ASA Datafest 2024 at UW | [Report](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Report.pdf) | [Slides](https://github.com/kasvinatirumal/ASA-DataFest-2024/blob/main/ASA-DataFest-2024-Presentation.pdf)
 
