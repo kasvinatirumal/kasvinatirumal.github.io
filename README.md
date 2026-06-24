@@ -7,16 +7,16 @@
 <table>
   <tr>
     <td><strong>B.Sc. in Applied & Computational Math Sciences: Data Sci & Statistics</strong></td>
-    <td align="right">University of Washington, Seattle (2026)</td>
+    <td align="right">University of Washington, Seattle  (2026)</td>
   </tr>
   <tr>
-    <td><strong>B.A. in Economics</strong></td>
-    <td align="right">University of Washington, Seattle (2026)</td>
+    <td><strong>B.A. in Economics, with a certificate in Quantitative Managerial Economics</strong></td>
+    <td align="right">University of Washington, Seattle  (2026)</td>
   </tr>
 </table>
 
 ### Work Experience 
-**Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - June 2026)**
+** Lead Mathematics Tutor @ Univeristy of Washington, Seattle (March 2024 - June 2026)**
 - Conducted one-on-one and group tutoring for Pre-Calculus and Calculus to over 60 students per week.
 - Collaborated with faculty to identify common student difficulties and adapt tutoring strategies accordingly.
 - Fostered a supportive learning environment that encourages collaboration among students waiting to receive help.
